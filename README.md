@@ -2,8 +2,9 @@
 
 ## Sobre o Desafio
 
-O desafio foi composto por 3 questões com diferentes níveis de dificuldade, com o objetivo de testar
-o conhecimento do participante em lógica de programação, sendo possivel escolher a linguagem para programar as questões.
+O desafio foi composto por 3 questões com diferentes níveis de dificuldade,
+com o objetivo de testar o conhecimento do participante em lógica de programação,
+sendo possivel escolher a linguagem para programar as questões.
 
 ## Tecnologias utilizadas
 ### Linguagem de programação utilizada
@@ -72,8 +73,8 @@ comando de exemplo: java Questao01.java
 # Digitar uma entrada
 
 ```
-Dentro de cada projeto existe um readme.md com informações sobre o código explicando a lógica utilizada
-para resolver cada uma das questões propostas.
+Dentro de cada projeto existe um readme.md com informações sobre o código
+explicando a lógica utilizada para resolver cada uma das questões propostas.
 
 ## Autor
 Alan Diego Oliveira Aristides
