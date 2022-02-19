@@ -29,6 +29,12 @@ https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao01.java
 https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao02.java
 https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao03.java
 # Abrir o Terminal do linux
+# Navegar pelo terminal até a pasta onde os arquivos estão localizados
+# Criar um executavel do arquivo
+comando: javac Questao01.java
+# Executar o arquivo gerado
+comando: java Questao01.java
+# Digitar uma entrada
 
 ```
 
