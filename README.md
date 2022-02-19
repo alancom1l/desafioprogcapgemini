@@ -1,2 +1,2 @@
 # desafioprogcapgemini
-Repositório com o desafio de programação.
+Este repositório contém as questões do DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI.
