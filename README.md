@@ -3,7 +3,8 @@
 
 # Sobre o Desafio
 
-O desafio foi composto por 3 questões para serem resolvidas.
+O desafio foi composto por 3 questões com diferentes níveis de dificuldade, com o objetivo de testar
+o conhecimento do participante em lógica de programação, sendo possivel escolher a linguagem para programar as questões.
 
 ## Questão 01
 
