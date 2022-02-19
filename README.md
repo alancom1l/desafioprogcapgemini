@@ -53,7 +53,7 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Alan Diego Oliveira Aristides
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/alan-aristides-570603216/
 
