@@ -42,17 +42,18 @@ comando: java Questao01.java
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# salvar os arquivos .java do repositório
+https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao01.java
+https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao02.java
+https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao03.java
+# Abrir o CMD do windows
+# Navegar pelo CMD até a pasta onde os arquivos estão localizados
+# Criar um executavel do arquivo
+comando de exemplo: javac Questao01.java
+# Executar o arquivo gerado
+comando de exemplo: java Questao01.java
+# Digitar uma entrada
 
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 ```
 
 # Autor
