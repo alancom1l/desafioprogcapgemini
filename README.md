@@ -1,25 +1,29 @@
 # Desafio Programação - Academia Capgemini
 
-# Sobre o Desafio
+## Sobre o Desafio
 
 O desafio foi composto por 3 questões com diferentes níveis de dificuldade, com o objetivo de testar
 o conhecimento do participante em lógica de programação, sendo possivel escolher a linguagem para programar as questões.
 
-# Tecnologias utilizadas
-## Linguagem de programação utilizada
+## Tecnologias utilizadas
+### Linguagem de programação utilizada
 - Java
 
-## Versão do JDK
+### Framework para Testes Unitário
+- JUnit 4.13.2
+- Hamcrest core 1.3
+
+### Versão do JDK
 - openjdk version "11.0.13" 2021-10-19
 - OpenJDK Runtime Environment (build 11.0.13+8-Ubuntu-0ubuntu1.20.04)
 - OpenJDK 64-Bit Server VM (build 11.0.13+8-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
 
-## IDE Utilizada
+### IDE Utilizada
 - Apache NetBeans IDE 12.6
 
-# Como executar a aplicação
+## Como executar a aplicação
 
-## Linux - Ubuntu
+### Linux - Ubuntu
 Pré-requisitos: Java 11
 
 ```bash
@@ -37,7 +41,7 @@ comando: java Questao01.java
 
 ```
 
-## Windows 10
+### Windows 10
 Pré-requisitos: Java 11
 
 ```bash
@@ -55,7 +59,7 @@ comando de exemplo: java Questao01.java
 
 ```
 
-# Autor
+## Autor
 
 Alan Diego Oliveira Aristides
 
