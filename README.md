@@ -21,6 +21,21 @@ o conhecimento do participante em lógica de programação, sendo possivel escol
 ### IDE Utilizada
 - Apache NetBeans IDE 12.6
 
+## Testes Unitários
+Para realização dos testes unitários foram feitos projetos clones de cada questão
+sendo os seguintes:
+
+```bash
+# Teste Unitário Referente a Questão 01
+https://github.com/alancom1l/desafioprogcapgemini/tree/main/Teste01
+
+# Teste Unitário Referente a Questão 02
+https://github.com/alancom1l/desafioprogcapgemini/tree/main/Teste02
+
+# Teste Unitário Referente a Questão 03
+https://github.com/alancom1l/desafioprogcapgemini/tree/main/Teste03
+
+```
 ## Como executar a aplicação
 
 ### Linux - Ubuntu
@@ -40,7 +55,6 @@ comando: java Questao01.java
 # Digitar uma entrada
 
 ```
-
 ### Windows 10
 Pré-requisitos: Java 11
 
@@ -58,10 +72,8 @@ comando de exemplo: java Questao01.java
 # Digitar uma entrada
 
 ```
-
 ## Autor
 
 Alan Diego Oliveira Aristides
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alan-aristides-570603216/)
-
