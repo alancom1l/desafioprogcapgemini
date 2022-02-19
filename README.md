@@ -6,7 +6,7 @@ O desafio foi composto por 3 questões com diferentes níveis de dificuldade, co
 o conhecimento do participante em lógica de programação, sendo possivel escolher a linguagem para programar as questões.
 
 # Tecnologias utilizadas
-## Linguagem de programação
+## Linguagem de programação utilizada
 - Java
 
 ## Versão do JDK
