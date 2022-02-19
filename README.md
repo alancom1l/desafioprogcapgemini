@@ -6,32 +6,21 @@
 O desafio foi composto por 3 questões com diferentes níveis de dificuldade, com o objetivo de testar
 o conhecimento do participante em lógica de programação, sendo possivel escolher a linguagem para programar as questões.
 
-## Questão 01
-
-## Questão 02
-
-## Questão 03
-
 # Tecnologias utilizadas
-## Back end
+## Linguagem de programação
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+
+## Versão do JDK
+- openjdk version "11.0.13" 2021-10-19
+- OpenJDK Runtime Environment (build 11.0.13+8-Ubuntu-0ubuntu1.20.04)
+- OpenJDK 64-Bit Server VM (build 11.0.13+8-Ubuntu-0ubuntu1.20.04, mixed mode, sharing)
+
+## IDE Utilizada
+- Apache NetBeans IDE 12.6
 
 # Como executar o projeto
 
-## Back end
+## Linux - Ubuntu
 Pré-requisitos: Java 11
 
 ```bash
@@ -45,8 +34,8 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-## Front end web
-Pré-requisitos: npm / yarn
+## Windows 10
+Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
