@@ -28,9 +28,9 @@ Pré-requisitos: Java 11
 
 ```bash
 # salvar os arquivos .java do repositório
-https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao01.java
-https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao02.java
-https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao03.java
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Questao01/src/questao01/Questao01.java
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Questao02/src/questao02/Questao02.java
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Questao03/src/questao03/Questao03.java
 # Abrir o Terminal do linux
 # Navegar pelo terminal até a pasta onde os arquivos estão localizados
 # Criar um executavel do arquivo
@@ -46,9 +46,9 @@ Pré-requisitos: Java 11
 
 ```bash
 # salvar os arquivos .java do repositório
-https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao01.java
-https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao02.java
-https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao03.java
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Questao01/src/questao01/Questao01.java
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Questao02/src/questao02/Questao02.java
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Questao03/src/questao03/Questao03.java
 # Abrir o CMD do windows
 # Navegar pelo CMD até a pasta onde os arquivos estão localizados
 # Criar um executavel do arquivo
