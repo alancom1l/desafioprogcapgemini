@@ -18,20 +18,17 @@ o conhecimento do participante em lógica de programação, sendo possivel escol
 ## IDE Utilizada
 - Apache NetBeans IDE 12.6
 
-# Como executar o projeto
+# Como executar a aplicação
 
 ## Linux - Ubuntu
 Pré-requisitos: Java 11
 
 ```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# salvar os arquivos .java do repositório
+https://github.com/alancom1l/desafioprogcapgemini/questao01
+https://github.com/alancom1l/desafioprogcapgemini/questao01
+https://github.com/alancom1l/desafioprogcapgemini/questao01
 
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
 ```
 
 ## Windows 10
