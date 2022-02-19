@@ -72,8 +72,10 @@ comando de exemplo: java Questao01.java
 # Digitar uma entrada
 
 ```
-## Autor
+Dentro de cada projeto existe um readme.md com informações sobre o código explicando a lógica utilizada
+para resolver cada uma das questões propostas.
 
+## Autor
 Alan Diego Oliveira Aristides
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/alan-aristides-570603216/)
