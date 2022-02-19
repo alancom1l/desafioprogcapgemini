@@ -25,9 +25,10 @@ Pré-requisitos: Java 11
 
 ```bash
 # salvar os arquivos .java do repositório
-https://github.com/alancom1l/desafioprogcapgemini/questao01
-https://github.com/alancom1l/desafioprogcapgemini/questao01
-https://github.com/alancom1l/desafioprogcapgemini/questao01
+https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao01.java
+https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao02.java
+https://github.com/alancom1l/desafioprogcapgemini/questao01 Questao03.java
+# Abrir o Terminal do linux
 
 ```
 
