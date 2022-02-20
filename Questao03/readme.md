@@ -6,15 +6,12 @@ feitas pelo teclado.
 Como a entrada deveria ser uma string aleatória, o método nextLine() pegar a linha
 inteira digitada na entrada e adiciona na String b.
 
-Para a resolução do problema foi utilizado expressões regulares para verificar se na
-entrada existiam os diferentes tipos de entradas requisitadas, sendo elas, números, letras
-minúsculas, letras maiúsculas e um conjunto de caracteres especiais.
-
-Como existiam muitas possibilidades foi necessário usar uma quantidade grande de ifs para
-verificar se a entrada possuía todos os requisitos exigidos. A verificação é feita e a 
-cada negativa nos requisitos exigidos na entrada, é adicionado a x que é inciado valendo 0
-+1, para que no final seja impresso a quantidade de caracteres necessários a mais para que
-a senha satisfaça os critérios exigidos.
+O programa pega a String b e começa a caminhar por ela em dois sentidos
+criando duas substrings e comparando uma com a outra utilizando a função
+anagrama para verificar se cada substring é um anagrama.
+Quando a função encontrar um anagrama é adicionado ao valor de x +1. Ao final
+imprimindo o valor de x que é referente a quantidade de anagramas encontrados
+dentro das substrings.
 
 ## Autor
 Alan Diego Oliveira Aristides
