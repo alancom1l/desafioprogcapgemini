@@ -27,14 +27,20 @@ Para realização dos testes unitários foram feitos projetos clones de cada que
 sendo os seguintes:
 
 ```bash
+# Clone Referente a Questão 01
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Teste01/src/teste01/Teste01.java
 # Teste Unitário Referente a Questão 01
-https://github.com/alancom1l/desafioprogcapgemini/tree/main/Teste01
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Teste01/test/teste01/Teste01Test.java
 
+# Clone Referente a Questão 02
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Teste02/src/teste02/Teste02.java
 # Teste Unitário Referente a Questão 02
-https://github.com/alancom1l/desafioprogcapgemini/tree/main/Teste02
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Teste02/test/teste02/Teste02Test.java
 
+# Clone Referente a Questão 03
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Teste03/src/teste03/Teste03.java
 # Teste Unitário Referente a Questão 03
-https://github.com/alancom1l/desafioprogcapgemini/tree/main/Teste03
+https://github.com/alancom1l/desafioprogcapgemini/blob/main/Teste03/test/teste03/Teste03Test.java
 
 ```
 ## Como executar a aplicação
