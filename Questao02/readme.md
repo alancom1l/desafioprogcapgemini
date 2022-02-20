@@ -6,15 +6,15 @@ feitas pelo teclado.
 Como a entrada deveria ser uma string aleatória, o método nextLine() pegar a linha
 inteira digitada na entrada e adiciona na String n.
 
-No foi utilizado expressões regulares para verificar se na entrada existiam os diferentes
-tipos de entradas requisitadas, sendo ela números, letras minúsculas, letras maiúsculas e
-um conjunto de caracteres especiais.
+Para a resolução do problema foi utilizado expressões regulares para verificar se na
+entrada existiam os diferentes tipos de entradas requisitadas, sendo elas, números, letras
+minúsculas, letras maiúsculas e um conjunto de caracteres especiais.
 
 Como existiam muitas possibilidades foi necessário usar uma quantidade grande de ifs para
-verificar se a entrada possuia todos os requisitos exigidos. A verificação é feita e a 
-cada negativa nos requisitos exigidos na entrada é adicionado a x + 1, para que no final
-seja impresso a quantidade de caracteres necessários a mais para que a senha satisfaça os
-critérios exigidos.
+verificar se a entrada possuía todos os requisitos exigidos. A verificação é feita e a 
+cada negativa nos requisitos exigidos na entrada, é adicionado a x que é inciado valendo 0
++1, para que no final seja impresso a quantidade de caracteres necessários a mais para que
+a senha satisfaça os critérios exigidos.
 
 ## Autor
 Alan Diego Oliveira Aristides
