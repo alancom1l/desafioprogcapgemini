@@ -79,6 +79,7 @@ comando de exemplo: java Questao01.java
 # Digitar uma entrada
 
 ```
+## Observações
 Dentro de cada projeto existe um readme.md com informações sobre o código
 explicando a lógica utilizada para resolver cada uma das questões propostas.
 
