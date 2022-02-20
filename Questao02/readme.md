@@ -4,7 +4,7 @@
 De inicio no código foi utilizado a classe Scanner para fazer a leitura das entradas
 feitas pelo teclado.
 Como a entrada deveria ser uma string aleatória, o método nextLine() pegar a linha
-inteira digitada na entrada e adiciona na String n.
+inteira digitada na entrada e adiciona na String senha.
 
 Para a resolução do problema foi utilizado expressões regulares para verificar se na
 entrada existiam os diferentes tipos de entradas requisitadas, sendo elas, números, letras
