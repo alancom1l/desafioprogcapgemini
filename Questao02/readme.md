@@ -1,15 +1,20 @@
 # Desafio Programação - Academia Capgemini
 
-## Questão 01
+## Questão 02
 De inicio no código foi utilizado a classe Scanner para fazer a leitura das entradas
 feitas pelo teclado.
-Como a entrada deveria ser um numero, o metodo nextInt() pega o valor inteiro da entrada e adiciona na variavel inteira n.
-Depois disso é criado um vetor de caracteres (array) com o tamanho da entrada desejada.
-Esse vetor a princípio é preenchido com espaços ' '.
-Para se imprimir o desenho desejado como saída um laço de repetição é usado para ir preenchendo
-os espaços vazios com '*'.
+Como a entrada deveria ser uma string aleatória, o método nextLine() pegar a linha
+inteira digitada na entrada e adiciona na String n.
 
-Data qualquer entrada N >= 0 se tem como saida um desenho de escada com a base tendo o mesmo tamanho da altura.
+No foi utilizado expressões regulares para verificar se na entrada existiam os diferentes
+tipos de entradas requisitadas, sendo ela números, letras minúsculas, letras maiúsculas e
+um conjunto de caracteres especiais.
+
+Como existiam muitas possibilidades foi necessário usar uma quantidade grande de ifs para
+verificar se a entrada possuia todos os requisitos exigidos. A verificação é feita e a 
+cada negativa nos requisitos exigidos na entrada é adicionado a x + 1, para que no final
+seja impresso a quantidade de caracteres necessários a mais para que a senha satisfaça os
+critérios exigidos.
 
 ## Autor
 Alan Diego Oliveira Aristides
